@@ -1,1 +1,1 @@
-# Amazon Linux 2023 Datastore Terraform
+# Amzn Linux 2023 Datastore AMI for Terraform
